@@ -1,4 +1,4 @@
 #!/bin/bash
 git clone git://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
 vcsh clone https://github.com/wanglihe/vcshrepo.git
-chsh -s zsh
+chsh -s /usr/bin/zsh
